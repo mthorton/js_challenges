@@ -1,0 +1,59 @@
+.main{
+
+}
+
+.card{
+    width: 200px;
+    height: 250px;
+    border: solid 1px black;
+    position: relative;
+    left: 50%;
+    top: 50px;
+
+}
+
+.login{
+    text-align: center;
+    color: blue;
+}
+
+.username{
+    color: blue;
+    font-size: x-small;
+    position: absolute;
+    left: 10px;
+    top: 50px;
+}
+
+.userEntry{
+    margin: auto;
+    display: block;
+}
+
+.password{
+    color: blue;
+    font-size: x-small;
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+
+.passEntry{
+    margin: auto;
+    display: block;
+}
+
+.forgot{
+    text-align: center;
+    font-size: x-small;
+    color: blue;
+    position: relative;
+    top: 130px;
+}
+
+.submit{
+    position: relative;
+    left: 57%;
+    top: 90px;
+    box-shadow: black;
+}
