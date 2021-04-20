@@ -1,0 +1,12 @@
+
+5 things to do if we have time
+
+1) create an html / css / js page and link them
+2) add a button on the html page that fires a function
+3) write a function that uses fetch to get an array of films
+4) write a function that uses this array to display results 
+5) make the page look nice
+
+Bonus:
+1) use bootstrap to display nice cards for each element
+2) add a button for each item displayed that removes it from the screen
